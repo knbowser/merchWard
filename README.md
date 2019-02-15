@@ -9,14 +9,13 @@ Merch Ward is a serverless web scraper built on AWS Lambda triggered by AWS Clou
 
 Before beginning you will need:
 1. Valid AWS credentials 
-	* `https://aws.amazon.com/console/`
+	* https://aws.amazon.com/console/
 2. Terraform
-	* `https://www.terraform.io/`
+	* https://www.terraform.io/
 3. An activated Python virtual environment
 	* https://docs.python.org/3/tutorial/venv.html
-		* i.e
-			* `python3 -m venv /tmp/foo`
-			* `source /tmp/foo/bin/activate`
+		* `python3 -m venv /tmp/foo`
+		* `source /tmp/foo/bin/activate`
 
 Instructions:
 1. `git clone https://github.com/knbowser/merchWard.git`
